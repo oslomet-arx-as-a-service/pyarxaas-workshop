@@ -1,0 +1,4 @@
+jupyter
+PyAaaS
+pandas
+matplotlib
